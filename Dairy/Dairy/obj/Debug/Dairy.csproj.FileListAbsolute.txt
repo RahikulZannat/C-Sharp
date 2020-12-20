@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Dairy\Dairy\obj\Debug\Dairy.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Dairy\Dairy\obj\Debug\Dairy.Form1.resources
+C:\Users\User\source\repos\Dairy\Dairy\obj\Debug\Dairy.Properties.Resources.resources
+C:\Users\User\source\repos\Dairy\Dairy\obj\Debug\Dairy.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Dairy\Dairy\obj\Debug\Dairy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dairy\Dairy\bin\Debug\Dairy.exe.config
+C:\Users\User\source\repos\Dairy\Dairy\bin\Debug\Dairy.exe
+C:\Users\User\source\repos\Dairy\Dairy\bin\Debug\Dairy.pdb
+C:\Users\User\source\repos\Dairy\Dairy\obj\Debug\Dairy.exe
+C:\Users\User\source\repos\Dairy\Dairy\obj\Debug\Dairy.pdb
+C:\Users\User\source\repos\Dairy\Dairy\obj\Debug\Dairy.Form2.resources
+C:\Users\User\source\repos\Dairy\Dairy\obj\Debug\Dairy.Form3.resources
